@@ -1,8 +1,8 @@
 # workout-plan-using-ml
-Introduction
+# Introduction:
 In today’s fast-paced digital world, staying fit and healthy is a top priority for many. However, not everyone has access to personal trainers or customized plans that suit their individual needs. This is where Machine Learning (ML) steps in — using data to design intelligent, adaptive, and personalized workout plans.
 
-Objective
+#Objective
 The main aim of this project is to:
 
 Develop a system that recommends customized workout routines.
@@ -11,7 +11,7 @@ Tailor plans based on user goals, body type, fitness level, medical history, and
 
 Continuously adapt and improve the plan based on user progress and feedback.
 
-Dataset
+#Dataset
 We use datasets that typically contain:
 
 User information: Age, gender, height, weight, BMI
@@ -24,7 +24,7 @@ Health conditions: Injuries, medical restrictions (if any)
 
 Public datasets or wearable device data (like from Fitbit or Apple Health) can also be used.
 
-Methodology
+#Methodology
 Data Preprocessing
 
 Handling missing values, outliers
